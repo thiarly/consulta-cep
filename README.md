@@ -1,7 +1,7 @@
 # Consulta de CEP - Aplicativo React
 
 
-![Uploading Screenshot 2023-09-21 at 08.48.10.png…]()
+
 
 
 Este é um aplicativo React simples que permite aos usuários consultar informações de CEP usando a API do ViaCEP. Além disso, o aplicativo exibe links para as redes sociais do desenvolvedor.
