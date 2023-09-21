@@ -2,6 +2,7 @@
 
 
 
+<img width="1401" alt="Screenshot 2023-09-21 at 08 51 23" src="https://github.com/thiarly/consulta-cep/assets/13594903/c0d6e68d-0e6b-414e-ad33-c399f00bc530">
 
 
 Este é um aplicativo React simples que permite aos usuários consultar informações de CEP usando a API do ViaCEP. Além disso, o aplicativo exibe links para as redes sociais do desenvolvedor.
